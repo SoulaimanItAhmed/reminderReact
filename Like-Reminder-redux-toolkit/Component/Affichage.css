@@ -1,0 +1,75 @@
+  .divP {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 0 0 5px grey;
+  }
+  
+  span {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: crimson;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkred;
+  }
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.divP{
+    margin: 3vh auto 3vh auto;
+    width: 80%;
+    height: 25vh;
+    border: 1px solid;
+    color: white;
+    background-color: black;
+    border-radius: 1vw;
+}
+.divP h1{
+    margin: 3vh auto auto 5vw;
+}
+.divP button{
+   display: inline-block;
+   margin-left: 70vw;
+   margin-bottom: 10vh;
+   background: red;
+   color: white;
+   height: 5vh;
+   width: 6vw;
+   border-radius: 1vh;
+} */
